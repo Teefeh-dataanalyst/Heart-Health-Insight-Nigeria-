@@ -55,7 +55,9 @@ The dataset consists of records from 5,000 individuals covering both young and a
 
 # Tools Used
 Excel(Data cleaning and preprocessing)
+
 Power BI (for dashboards & insights visualization)
+
 SQL (for data querying and manipulation)
 
 # Conclusion
