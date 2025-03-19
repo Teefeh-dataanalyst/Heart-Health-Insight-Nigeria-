@@ -15,13 +15,21 @@ The primary goal of this project is to derive insights into heart health trends 
 # Dataset Description
 The dataset consists of records from 5,000 individuals covering both young and adult populations. The key columns in the dataset include:
 -BMI: Body Mass Index of individuals
+
 -Health Awareness: Knowledge and understanding of heart health
+
 -Family History: Presence of heart disease in close relatives
+
 -Blood Pressure: Systolic and diastolic blood pressure levels
+
 -Regions: Geographic location of participants
+
 -Income Level: Socioeconomic status of individuals
+
 -Smoking: Smoking habits (Yes/No)
+
 -Exercise: Frequency of physical activity
+
 -Heart Attack Cases: Indicating whether the individual has had a heart attack
 
 # Methodology
@@ -32,7 +40,9 @@ The dataset consists of records from 5,000 individuals covering both young and a
 
 # Key Findings
 -45.1% of the population had experienced heart attacks, highlighting a significant public health concern.
+
 -Risk factors such as high BMI, smoking, lack of exercise, and family history showed strong correlations with heart attack cases.
+
 -Income level and regional differences played a role in access to healthcare and heart health awareness.
 
 # Tools Used
