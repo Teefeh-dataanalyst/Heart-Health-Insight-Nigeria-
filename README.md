@@ -7,13 +7,18 @@ This project aims to analyze heart health patterns among individuals in Nigeria,
 The primary goal of this project is to derive insights into heart health trends in Nigeria by analyzing contributing factors such as BMI, health awareness, family history, blood pressure, regions, income level, smoking, and exercise habits. The analysis seeks to answer:
 
 -What are the key risk factors for heart attacks in Nigeria?
+
 -What is the rate of heart attack in adult in comparison with the young ones?
+
 -How do demographic and lifestyle factors influence heart health?
+
 -Is there a correlation between income level and heart-related issues?
+
 -How does heart health awareness impact the likelihood of heart complications?
 
 # Dataset Description
 The dataset consists of records from 5,000 individuals covering both young and adult populations. The key columns in the dataset include:
+
 -BMI: Body Mass Index of individuals
 
 -Health Awareness: Knowledge and understanding of heart health
@@ -34,8 +39,11 @@ The dataset consists of records from 5,000 individuals covering both young and a
 
 # Methodology
 -Data Cleaning & Preprocessing: Handling missing values, normalizing numerical variables, and encoding categorical data.
+
 -Exploratory Data Analysis (EDA): Visualizing trends in heart health, understanding distributions, and identifying risk factors.
+
 -Statistical Analysis & Correlation Study: Examining relationships between different variables and heart attack occurrences.
+
 -Visualization: Building models to predict the likelihood of heart attack cases based on given health factors.
 
 # Key Findings
