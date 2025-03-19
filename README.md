@@ -65,6 +65,9 @@ This project provides valuable insights into heart health trends in Nigeria. It 
 
 # Recommendation
 Expanding the dataset to include more diverse demographics.
+
 Conducting predictive modeling to assess individual risk scores.
+
 Implementing machine learning models to improve heart attack prediction.
+
 Increasing awareness through data-driven health campaigns.
